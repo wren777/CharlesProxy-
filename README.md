@@ -5,7 +5,7 @@
 </details>
 
 <details>
-<summary>Перехваченный ответ с расчётами стойомсти и времени</summary>
+<summary>Перехваченный ответ с расчётами стоимости и времени</summary>
 
 ![imageup.ru](https://imageup.ru/img33/4582406/skrinshot-s-izmenennym-zaprosom-rascheta-stoimosti-i-dlitelnosti-poezdki-iz-charles.jpg)
 </details>
