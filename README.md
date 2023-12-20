@@ -1,4 +1,4 @@
-Пример использования функции Breackpoint в Charles Proxy
+Пример использования функции Breakpoints в Charles Proxy
 
 <details>
 <summary>Перехваченный ответ с добавлением нового вида транспорта</summary>
